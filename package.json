@@ -1,0 +1,19 @@
+{
+  "name": "thu-muc-quan",
+  "version": "1.0.0",
+  "description": "\"# html\" \r \"# html\" \r \"# html\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gatronglaptrinh/html.git"
+  },
+  "author": "Quan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gatronglaptrinh/html/issues"
+  },
+  "homepage": "https://github.com/Gatronglaptrinh/html#readme"
+}
